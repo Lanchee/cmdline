@@ -1,19 +1,23 @@
-# cmdline
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-lanshell is a developed command line interface build from prompt_toolkit
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-lanshell contain the following futures:
+Lanshell
+========================
 
-1.record your injection history;
-2.bind to your keys;
-3.friendly auto-complet;
-4.command searching;
-5.page split;
-6.sytax hight;
+Lanshell is a developed command line interface build from prompt_toolkit
+-------------------------------------------------------------------------
 
-before apply this fuction, please install the following pip package first:
-1.prompt_toolkit
-2.click
-3.fuzzyfinder
-4.pygments
+
+ > Lanshell contain the following futures
+
+* Record your injection history;
+* Bind to your keys; 
+* Friendly auto-complet;
+* Command searching;
+* Page split;
+* Sytax hight;
+
+> Before apply this fuction, please install the following pip package first:
+> 
+* Prompt_toolkit
+* Click
+* Fuzzyfinder
+* Pygments
